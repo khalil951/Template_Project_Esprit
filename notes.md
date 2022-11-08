@@ -1,6 +1,5 @@
 
 -content template
--add pics carouel
--fix footer
+-fix palette
 -fix footer & nav template 
 -push to github
