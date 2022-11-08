@@ -12,6 +12,10 @@
     color: #ECF7F4 !important;
 }
 
+.cta :hover{
+    cursor: pointer !important;
+}
+
 .mid-content{
     background-color: #3F4241;;
 }
