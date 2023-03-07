@@ -23,6 +23,6 @@ public:
     private:
     QString firstName,lastName,telNumber,email,address;
     };
-};
+
 
 #endif // CLIENT_H
